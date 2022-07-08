@@ -4,7 +4,7 @@ An ongoing journal of reflections while learning/relearning Korean.
 
 ## 2022 Jul 08
 
-Two places where I need to be mindful when learning languages — getting caught in theory / dogma and tools. Sometimes these two overlap. 
+Two places where I need to be mindful when learning languages — getting caught in theory / dogma and tools. [[Sometimes]] these two overlap. 
 
 You end up learning about learning versus learning the language itself. How to best manage this? 
 
