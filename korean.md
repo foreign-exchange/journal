@@ -1,6 +1,6 @@
 # Learning Korean 
 
-An running journal of reflections while learning/relearning Korean. 
+A running journal of reflections while learning/relearning Korean. 
 
 ## 2022 Jul 08
 
