@@ -2,6 +2,10 @@
 
 A running journal of reflections while learning/relearning Korean. 
 
+### 2022 Jul 16 
+
+- Finding / creating a (Korean language learning) community is hard. 
+
 ### 2022 Jul 09 
 
 Reminded of the importance to remember the vision when language learning. It's easy to get discouraged, distracted and it's importance to have something to hold onto, to movitate you to keep going when you're just grinding. Still looking for the best format to document my vision. To be continued. 
