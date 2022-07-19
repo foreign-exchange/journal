@@ -2,6 +2,16 @@
 
 A running journal of reflections while learning/relearning Korean. 
 
+### 2022 Jul 19
+
+- More thoughts on why language learning community is challenging 
+  -  Appropriate mix of levels (otherwise blind leading the bling) 
+  -  Connecting over more than just dogma (the challenge of communities built around language learning methods — the approach versus the goal)
+  -  Lack of accessible content in the domains, subcultures you care about
+
+### 2022 Jul 18
+- Getting into rhythm with iTalki tutors have been great. It's given me something interactive and something to look it forward to in a way that's more than just focusing on immersion on and input
+
 ### 2022 Jul 16 
 
 - Finding / creating a (Korean language learning) community is hard. 
