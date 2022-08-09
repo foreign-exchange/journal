@@ -2,6 +2,19 @@
 
 A running journal of reflections while learning/relearning Korean. 
 
+### 2022 Aug 08
+
+- Learning quotations in Korean 
+   -  In quoted sentences, the “quoted” part gets conjugated into the plain (or “diary”) form. 
+   -  Then you append with `고`
+   -  Can conjugate 
+     -  the quoted form to indicate the tense of the quote
+     -  the ending to indicate when the quote was spoken said
+   -  Can use ~에게/한테/께 to the person being spoken to
+   -  Can shorten 말하다 → 하다 since it's implied that this is being spoken
+
+
+
 ### 2022 Jul 19
 
 - More thoughts on why language learning community is challenging 
