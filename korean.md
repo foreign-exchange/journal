@@ -2,6 +2,20 @@
 
 A running journal of reflections while learning/relearning Korean. 
 
+### 2022 Sep 26
+- Been a minute since I practiced Korean. Life "aka new kid". Trying to ease myself back in with baby steps: 
+   - Reconnect with why I study Korean
+   - Booking a few iTalki lessons with tutors as a forcing function to practice
+   - Watching a few easy TTMIK videos on Youtube just for fun 
+   - 
+- I want to make sure that I don't burnout in my attempt to get back into a flow
+- [Watch this video before you speak in Korean - YouTube](https://www.youtube.com/watch?v=LXhvTPXcCV4). Great ideas on how to warm up [your brain] on Korean because the context switch costing of jumping straight into talking with someone else can be very high.
+   -  Pronunciation warm-up
+   -  Setence reading
+   -  Paragraphy reading
+   -  Answering question
+
+
 ### 2022 Aug 08
 
 - Learning quotations in Korean 
