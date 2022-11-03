@@ -2,6 +2,9 @@
 
 A running journal of reflections while learning/relearning Korean. 
 
+### 2022 Nov 03
+- Keep chipping away. Little by little.
+
 ### 2022 Sep 26
 - Been a minute since I practiced Korean. Life "aka new kid". Trying to ease myself back in with baby steps: 
    - Reconnect with why I study Korean
