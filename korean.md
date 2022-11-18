@@ -2,6 +2,9 @@
 
 A running journal of reflections while learning/relearning Korean. 
 
+### 2022 Nov 17
+- Pro-tip when using Mochi — manually add words to review after iTalki lessons to force them into circulation. Easier this way since you can't just cram.
+
 ### 2022 Nov 03
 - Keep chipping away. Little by little.
 
