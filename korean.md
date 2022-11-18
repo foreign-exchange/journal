@@ -4,6 +4,11 @@ A running journal of reflections while learning/relearning Korean.
 
 ### 2022 Nov 17
 - Pro-tip when using Mochi — manually add words to review after iTalki lessons to force them into circulation. Easier this way since you can't just cram.
+- [Why Korean sentences are challenging for learners (and what to do about it) - YouTube](https://www.youtube.com/watch?v=hiWIdvcM21o).
+   - Missing context (particles) 
+   - Sentences are often flexible and sequenced
+   - So have to think about what was missing 
+
 
 ### 2022 Nov 03
 - Keep chipping away. Little by little.
