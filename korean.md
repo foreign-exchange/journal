@@ -2,6 +2,24 @@
 
 A running journal of reflections while learning/relearning Korean. 
 
+### 2022 Nov 22
+- How to get the most of out language learning platforms 
+   - Can it be a community if it's always asynchronous 
+   - HelloTalk
+      -  Mobile on ; nothing on the web
+      -  Feels incredibly spammy; cant spend more than a few minutes in the app before I start getting hit with all sorts of banners and pop-ups about upgrading to VIP. 
+      -  Pushing through, the UI feels pretty cluttered. What exactly am I doing here? 
+         - I tried but stopped. Man this is terrible.     
+   - **iTalki** community feels the lightest as if it were bolted on at the end. 
+      - Not sure what to do with the feed
+      - Topics for you (what is this again) - why for me? 
+      - What do I have to say and why would I say it? 
+   - Reddit - more about posts within a subreddit — it's the organizing unit of the service; not the person and the journey they're on. 
+   - 
+   - Kakao for language learning community?
+   - 
+   - A huge gap in temporary cohorting while learning something self-paced online — create something around this
+
 ### 2022 Nov 17
 - Pro-tip when using Mochi — manually add words to review after iTalki lessons to force them into circulation. Easier this way since you can't just cram.
 - [Why Korean sentences are challenging for learners (and what to do about it) - YouTube](https://www.youtube.com/watch?v=hiWIdvcM21o).
