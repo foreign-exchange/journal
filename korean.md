@@ -2,6 +2,16 @@
 
 A running journal of reflections while learning/relearning Korean. 
 
+### 2022 Nov 26
+- Mochi reviews 
+- Watched language learning videos - https://www.youtube.com/watch?v=MsMxSBHb5pU
+- https://www.youtube.com/watch?v=2s6sksXqMlA&list=WL&index=3
+
+오늘 비디오를 두게 봤어요. 
+about 베로 서울부토 재주에 가는 배 
+
+- Set up instagram for Korean
+
 ### 2022 Nov 22
 - How to get the most of out language learning platforms 
    - Can it be a community if it's always asynchronous 
