@@ -2,6 +2,19 @@
 
 A running journal of reflections while learning/relearning Korean. 
 
+### 2022 Nov 28
+
+- Finished L3 grammar book and getting started on L4
+- [Beginner ➡️ Intermediate ➡️ Advanced in Korean - YouTube](https://www.youtube.com/watch?v=2n2BwCYetkk)
+   - Process
+      -  Acquire knowledge
+      -  Unlearn and relearn
+      -  Connect dots and collect expressions -- what expressions are more fitting for a situation, what expressions are often used together
+   -  How to get there 
+      - Listening and reading 
+      - Dictionary time
+
+
 ### 2022 Nov 26
 - Mochi reviews 
 - Watched language learning videos - https://www.youtube.com/watch?v=MsMxSBHb5pU
