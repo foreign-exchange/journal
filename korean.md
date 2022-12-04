@@ -2,6 +2,9 @@
 
 A running journal of reflections while learning/relearning Korean. 
 
+2022 Dec 04
+- Common mistake of not answering a question with the appropriate topic marker 은/는
+
 ### 2022 Nov 28
 
 - Finished L3 grammar book and getting started on L4
