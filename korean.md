@@ -2,6 +2,10 @@
 
 A running journal of reflections while learning/relearning Korean. 
 
+### 2023 Jan 03
+- Setting [**theme ~specific goal~**](https://youtu.be/AqXTRNuGcUE?t=295) for the year
+- My theme for 2023 -- more speaking, expressing myself with other native Korean people
+
 2022 Dec 04
 - Common mistake of not answering a question with the appropriate topic marker 은/는
 
