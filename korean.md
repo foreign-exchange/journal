@@ -2,6 +2,19 @@
 
 A running journal of reflections while learning/relearning Korean. 
 
+### 2023 Feb 04
+Share in post on YT, Twitter, Reddit and other communities 
+
+https://youtu.be/I0eKlY9eJ4w?t=67 - reason it looks different? cursive. examples 
+
+simplified characters and no-lift writing 
+
+ㄹ
+ㅈ
+ㅊ
+
+https://youtu.be/I0eKlY9eJ4w?t=486 - i'm definitely not understanding this. basically feels like korean cursive. 
+
 ### 2023 Jan 03
 - Setting [**theme ~specific goal~**](https://youtu.be/AqXTRNuGcUE?t=295) for the year
 - My theme for 2023 -- more speaking, expressing myself with other native Korean people
