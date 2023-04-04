@@ -6,6 +6,8 @@ A running journal of reflections while learning/relearning Korean.
 
 - [❌ STOP LEARNING KOREAN - YouTube](https://www.youtube.com/watch?v=EIYQPf5LRMg)
 - Downloaded Miranae. Going to do a teardown later. 
+- [Lesson 1. The more … the more … / -(으)면 -(으)ㄹ수록 – Learn Korean with Talk To Me In Korean](https://talktomeinkorean.com/curriculum/level-4-korean-grammar/lessons/lesson-1-the-more-the-more-%eb%a9%b4-%ec%9d%84%ec%88%98%eb%a1%9d/)
+
 
 ### 2023 Feb 04
 Share in post on YT, Twitter, Reddit and other communities 
