@@ -2,6 +2,11 @@
 
 A running journal of reflections while learning/relearning Korean. 
 
+### 2023 Apr 04 
+
+- [❌ STOP LEARNING KOREAN - YouTube](https://www.youtube.com/watch?v=EIYQPf5LRMg)
+- Downloaded Miranae. Going to do a teardown later. 
+
 ### 2023 Feb 04
 Share in post on YT, Twitter, Reddit and other communities 
 
